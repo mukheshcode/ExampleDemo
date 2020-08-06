@@ -1,5 +1,7 @@
-class Exam
-{
-System.out.pritnln("Exam");
+class Exam{
+	static
+	{
+		System.out.println("static");
+	}
 
 }
